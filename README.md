@@ -8,7 +8,7 @@
     </div>
     <div align= "center">
     <h2 style=" color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
@@ -23,6 +23,7 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <br/></div>
     </div>
     <div align= "center"> 
